@@ -1,1 +1,1 @@
-second commit after adding gpg key
+second commit after adding GPG key
