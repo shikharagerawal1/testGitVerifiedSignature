@@ -14,3 +14,6 @@ On the pull request, click  Commits.
 Commits tab on a pull request
 To view more detailed information about the verified signature, click Verified.
 Signed commit
+
+#requirements
+Gnupg software
