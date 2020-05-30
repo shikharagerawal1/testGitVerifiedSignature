@@ -17,3 +17,4 @@ Signed commit
 
 #requirements
 Gnupg software
+git
